@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true" />
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawichi&layout=compact" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawichi&repo=gifexpertapp" />
 
